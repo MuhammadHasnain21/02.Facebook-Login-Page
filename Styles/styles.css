@@ -29,8 +29,10 @@ outline: none;
     border-radius: 5px;
     margin: 10px 15px;
     font-size: 16px;
+
 }
 .input-text:hover{
+    outline: #009ef2;
     outline: #009ef2;
 }
 .btn-login{
