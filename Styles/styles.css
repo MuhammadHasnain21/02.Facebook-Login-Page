@@ -1,0 +1,124 @@
+body{
+    background-color: #f2f2f2;
+    width: 100%;
+    padding: 0px;
+margin: 0px;
+outline: none;
+}
+.login-side{
+    background-color: #fff;
+    box-shadow: 0px 0px 5px rgba(173, 173, 173,.75);
+    height: 350px;
+    width: 390px;
+    position: absolute;
+    padding: 10px 5px 20px 5px ;
+    border-radius:5px ;
+    left: 820px ;
+    top:130px;
+
+}
+.input-text{
+    padding: 0px 0px 0px 10px ;
+    width: 89%;
+    height: 46px ;
+    outline: #0373fc;
+    caret-color: #0373fc;
+    border-style: solid ;
+    border-width:1px ;
+    border-color: #d1d1d1;
+    border-radius: 5px;
+    margin: 10px 15px;
+    font-size: 16px;
+}
+.input-text:hover{
+    outline: #009ef2;
+}
+.btn-login{
+    width: 92%;
+    height: 46px;
+    margin: 10px 15px;
+    border: none;
+    background-color: #0373fc;
+    color: white;
+    border-radius: 5px;
+ 
+}
+.btn-login:hover{
+    background-color: #0263d9;
+	cursor: pointer;
+
+}
+.btn , b{
+    font-weight: bold;
+   font-size: 16px;
+}
+.for-pass{
+    text-decoration: none;
+    font-size: 14px;
+    color: #009ef2;
+
+}
+.for-pass:hover{
+    text-decoration: underline;
+}
+
+hr{
+    width: 90%;
+    border: 1px solid;
+    border-width: 0.10px;
+    border-color: #d9d9d9;
+}
+.btn-crte-ac{
+    background-color: #42b72a;
+    width: 65%;
+    height: 46px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+margin: 0px 1px;
+}
+.btn-crte-ac:hover{
+background-color: rgb(60, 151, 42);
+cursor: pointer;
+}
+
+
+.create{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.create:hover{
+    text-decoration: underline;
+}
+.para{
+    text-decoration: none;
+    color: black;
+    top: 500px;
+    position: absolute;
+    left: 890px;
+    font-size: 15px;
+    font-family: Arial , sans-serif;
+
+}
+.fb-img{
+    width: 300px;
+    top: 170px;
+    left: 80px;
+    position: relative;
+}
+.right-one{
+    margin-left: 75px;
+    margin-top: 15px;
+    width: 50%;
+}
+.fb-text{
+    margin-left: 105px;
+    font-family: Helvetica;
+    font-size: 28px;
+    margin-top: -15px;
+    font-weight: normal;
+    color: #363636;
+    top: 170px;
+    position: relative;
+}
